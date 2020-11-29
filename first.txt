@@ -1,2 +1,4 @@
 Gitの練習
 学ぶぜ
+・git add
+・git commit
